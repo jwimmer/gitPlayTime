@@ -1,2 +1,2 @@
-FILENAME: developmeynt.txt
+FILENAME: development.txt
 created as general (non story defect feature) development
