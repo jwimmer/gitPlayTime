@@ -1,0 +1,864 @@
+{
+  "data": [
+    {
+      "activityId": "2120269238",
+      "activityType": "RUN",
+      "startTime": "2013-03-28T04:26:41Z",
+      "activityTimeZone": "GMT-06:00",
+      "status": "COMPLETE",
+      "deviceType": "GPSANDROID",
+      "metricSummary": {
+        "calories": 405,
+        "fuel": 849,
+        "distance": 5.648861885070801,
+        "steps": 350,
+        "duration": "1:00:17.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "WEATHER",
+          "tagValue": "PARTLY_SUNNY"
+        },
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "AMPED"
+        },
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "cc9138af-379a-4ac5-ab5d-971ba5774ab0",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-27T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 569,
+        "fuel": 1415,
+        "distance": 4.529124736785889,
+        "steps": 5752,
+        "duration": "5:16:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "b691872c-bc6a-4664-a388-9bee11f42736",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-26T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 706,
+        "fuel": 1863,
+        "distance": 2.5409398078918457,
+        "steps": 3227,
+        "duration": "9:51:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a8a33526-9626-410b-b503-fd65d5b67b0c",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-25T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 969,
+        "fuel": 2521,
+        "distance": 3.597630500793457,
+        "steps": 4569,
+        "duration": "11:34:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "86194874-ece7-45ae-a86c-f3d0c6e18bdb",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-24T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1027,
+        "fuel": 2694,
+        "distance": 4.171645164489746,
+        "steps": 5298,
+        "duration": "10:08:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "818d9b98-6fdf-4b8b-9e28-ba1ba40f1a54",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-23T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 980,
+        "fuel": 2518,
+        "distance": 5.7086501121521,
+        "steps": 7250,
+        "duration": "8:33:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d78bdcca-ebe9-4a93-9511-979f650e890c",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-22T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 750,
+        "fuel": 1985,
+        "distance": 2.448026657104492,
+        "steps": 3109,
+        "duration": "10:16:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a21ba686-1202-4791-96ed-6826accdcc4f",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-21T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 647,
+        "fuel": 1699,
+        "distance": 2.674797773361206,
+        "steps": 3397,
+        "duration": "9:04:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "c8505f77-ca63-4304-890a-a8540a7506ea",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-20T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 552,
+        "fuel": 1471,
+        "distance": 1.6086581945419312,
+        "steps": 2043,
+        "duration": "6:34:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "5716cbf0-7cc4-43ef-be2f-65bd0b3a1e0e",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-19T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 912,
+        "fuel": 2395,
+        "distance": 3.3015682697296143,
+        "steps": 4193,
+        "duration": "11:28:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7153f3e6-74fa-4c69-a0e5-92151c356a28",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-18T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 894,
+        "fuel": 2312,
+        "distance": 4.638573169708252,
+        "steps": 5891,
+        "duration": "11:31:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "e4656098-8a8e-4281-bad2-387c0629889a",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-17T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1146,
+        "fuel": 3030,
+        "distance": 4.243298530578613,
+        "steps": 5389,
+        "duration": "10:22:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "1a3b1aed-1dc3-4a69-ab73-7d11a51e36b6",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-16T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1142,
+        "fuel": 3000,
+        "distance": 5.025974273681641,
+        "steps": 6383,
+        "duration": "10:52:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d11451ea-2228-42c7-bfd2-7d8166f250e1",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-15T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 870,
+        "fuel": 2278,
+        "distance": 3.3157413005828857,
+        "steps": 4211,
+        "duration": "11:19:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "35d080c1-3f05-4054-afcd-69ab20790175",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-14T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 757,
+        "fuel": 2001,
+        "distance": 2.423617124557495,
+        "steps": 3078,
+        "duration": "9:47:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ab427c8a-63b8-41f2-825d-d5575eb43905",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-13T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1058,
+        "fuel": 2751,
+        "distance": 5.052745819091797,
+        "steps": 6417,
+        "duration": "11:03:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "295065dc-1008-42a4-b97d-778fd86c1be1",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-12T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 753,
+        "fuel": 1948,
+        "distance": 3.6787328720092773,
+        "steps": 4672,
+        "duration": "7:24:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "4e1f5bc1-1d05-400a-ab30-574cc93b1344",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-11T06:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1066,
+        "fuel": 2764,
+        "distance": 5.209438323974609,
+        "steps": 6616,
+        "duration": "11:02:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "7458b0f2-a7a2-41e9-bcc4-ad8e61ac9e60",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-10T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 451,
+        "fuel": 1128,
+        "distance": 3.6299140453338623,
+        "steps": 4610,
+        "duration": "3:57:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d37a6725-8c1f-4ab9-bd23-0e11e0b53902",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-09T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1303,
+        "fuel": 3449,
+        "distance": 5.058257579803467,
+        "steps": 6424,
+        "duration": "10:55:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "56b0d7c1-4022-4e64-90d7-762498fbb368",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-08T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 815,
+        "fuel": 2125,
+        "distance": 3.507079601287842,
+        "steps": 4454,
+        "duration": "10:24:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "6417b08c-bbee-4faf-8b64-a0856fa8f759",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-07T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 794,
+        "fuel": 2071,
+        "distance": 3.505504846572876,
+        "steps": 4452,
+        "duration": "11:01:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a37a5e3d-8f48-4389-9662-897a5f587119",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-06T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 946,
+        "fuel": 2510,
+        "distance": 2.32755446434021,
+        "steps": 2956,
+        "duration": "11:26:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "cdf6c819-43af-4665-bf78-2c9137412831",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-05T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1123,
+        "fuel": 2925,
+        "distance": 4.85825777053833,
+        "steps": 6170,
+        "duration": "12:32:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "ca010f44-bdf1-44ca-8b32-28f3093ef7f7",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-04T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 650,
+        "fuel": 1695,
+        "distance": 2.3527512550354004,
+        "steps": 2988,
+        "duration": "8:43:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "9ec480bd-4f98-46ca-a69a-7fb18439be70",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-03T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1147,
+        "fuel": 3004,
+        "distance": 3.81889009475708,
+        "steps": 4850,
+        "duration": "7:52:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "6d5bac86-ef9c-42ac-b58a-4c8a39241ca3",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-02T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1287,
+        "fuel": 3351,
+        "distance": 5.403138637542725,
+        "steps": 6862,
+        "duration": "10:14:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "720a4012-eda6-445d-8f26-dfce2f0260c4",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-03-01T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1007,
+        "fuel": 2613,
+        "distance": 4.410227298736572,
+        "steps": 5601,
+        "duration": "11:34:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "a7c2c4e1-948d-431b-b780-c9dcf96c752a",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-28T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1125,
+        "fuel": 2872,
+        "distance": 6.433845520019531,
+        "steps": 8171,
+        "duration": "10:57:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "f86e0025-f321-416c-adeb-f4906f462651",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-27T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1305,
+        "fuel": 3385,
+        "distance": 6.183452129364014,
+        "steps": 7853,
+        "duration": "12:11:00.000"
+      },
+      "tags": [
+        {
+          "tagType": "NOTE"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "57e51993-00af-4296-ac30-fa1e99baa4a2",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-26T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1118,
+        "fuel": 2836,
+        "distance": 6.881088733673096,
+        "steps": 8739,
+        "duration": "11:34:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "e519f534-f8c5-4a7b-ae0a-3d76cce7e41a",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-25T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1649,
+        "fuel": 4330,
+        "distance": 9.32911491394043,
+        "steps": 11848,
+        "duration": "12:44:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "25250816-3bea-48f2-9eef-174e85e18cca",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-24T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 850,
+        "fuel": 2465,
+        "distance": 4.954320907592773,
+        "steps": 6292,
+        "duration": "9:00:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "641729ad-025c-4dd5-91bd-6adc5c77def4",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-23T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1310,
+        "fuel": 3958,
+        "distance": 5.081092357635498,
+        "steps": 6453,
+        "duration": "11:40:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d071c7fc-772c-4e18-92a4-0ed1f14fb720",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-22T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 703,
+        "fuel": 2098,
+        "distance": 2.8220415115356445,
+        "steps": 3584,
+        "duration": "10:36:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "fe1b649d-f226-4c8a-9654-18eba55906a6",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-21T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 667,
+        "fuel": 2003,
+        "distance": 2.741726875305176,
+        "steps": 3482,
+        "duration": "9:47:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d253958f-182c-4f39-a94f-23184188942c",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-20T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1167,
+        "fuel": 3388,
+        "distance": 7.630693435668945,
+        "steps": 9691,
+        "duration": "9:59:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "4dd59d74-6743-4ad8-b41a-592858345b82",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-19T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1100,
+        "fuel": 3344,
+        "distance": 4.536998748779297,
+        "steps": 5762,
+        "duration": "12:00:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "05a2504f-7a84-4119-b495-714933ad2a7e",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-18T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 782,
+        "fuel": 2250,
+        "distance": 4.653533935546875,
+        "steps": 5910,
+        "duration": "8:36:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2103363988",
+      "activityType": "RUN",
+      "startTime": "2013-02-17T20:44:32Z",
+      "activityTimeZone": "America/Denver",
+      "status": "COMPLETE",
+      "deviceType": "IPHONE",
+      "metricSummary": {
+        "calories": 228,
+        "fuel": 478,
+        "distance": 3.325679063796997,
+        "steps": 0,
+        "duration": "0:38:28.258"
+      },
+      "tags": [
+        {
+          "tagType": "TEMPERATURE",
+          "tagValue": "TEMPERATURE"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        },
+        {
+          "tagType": "SHOES",
+          "tagValue": "keen sandals"
+        },
+        {
+          "tagType": "TERRAIN",
+          "tagValue": "ROAD"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "fd67af36-2831-476f-a188-f7c2d1c35340",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-17T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1020,
+        "fuel": 2859,
+        "distance": 7.995259761810303,
+        "steps": 10154,
+        "duration": "8:22:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d62a21b5-7168-41f6-b913-36b143b0e42b",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-16T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1254,
+        "fuel": 3578,
+        "distance": 8.793683052062988,
+        "steps": 11168,
+        "duration": "10:26:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2102545269",
+      "activityType": "RUN",
+      "startTime": "2013-02-15T19:52:22Z",
+      "activityTimeZone": "America/Denver",
+      "status": "COMPLETE",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 143,
+        "fuel": 305,
+        "distance": 2.1354293823242188,
+        "steps": 0,
+        "duration": "0:23:44.645"
+      },
+      "tags": [
+        {
+          "tagType": "LOCATION",
+          "tagValue": "OUTDOORS"
+        },
+        {
+          "tagType": "SHOES",
+          "tagValue": "doc martin 8 eyelet"
+        },
+        {
+          "tagType": "EMOTION",
+          "tagValue": "SO_SO"
+        }
+      ],
+      "metrics": []
+    },
+    {
+      "activityId": "baeead21-e5af-4a40-ad81-f5c309a525c7",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-15T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 838,
+        "fuel": 2428,
+        "distance": 4.98109245300293,
+        "steps": 6326,
+        "duration": "11:09:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "2faa8b47-75ad-4233-a7ea-e042654f587e",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-14T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1051,
+        "fuel": 3104,
+        "distance": 5.415737152099609,
+        "steps": 6878,
+        "duration": "13:37:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "8c2fe33a-d699-4510-baae-3d1f2670fec8",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-13T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 1148,
+        "fuel": 3358,
+        "distance": 7.012584209442139,
+        "steps": 8906,
+        "duration": "13:06:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    },
+    {
+      "activityId": "d03d9df6-9245-49e0-8c39-826da0863959",
+      "activityType": "ALL_DAY",
+      "startTime": "2013-02-12T07:00:00Z",
+      "activityTimeZone": "America/Denver",
+      "status": "IN_PROGRESS",
+      "deviceType": "FUELBAND",
+      "metricSummary": {
+        "calories": 698,
+        "fuel": 2011,
+        "distance": 4.048023223876953,
+        "steps": 5141,
+        "duration": "9:30:00.000"
+      },
+      "tags": [],
+      "metrics": []
+    }
+  ],
+  "paging": {
+    "next": "/me/sport/activities?offset=51&count=50&startDate=2012-03-01&endDate=2013-04-01&access_token=88b903ed5db5981f768b5dc9bf54bda7"
+  }
+}
