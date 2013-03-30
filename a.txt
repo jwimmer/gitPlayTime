@@ -1,4 +1,4 @@
 FILENAME: a.txt
 
-general development pre feature (stories) branches
+General development pre-feature (stories) branches
 
