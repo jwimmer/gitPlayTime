@@ -1,2 +1,4 @@
-c
+FILENAME: c.txt
 
+should have SOME content
+could have more content
