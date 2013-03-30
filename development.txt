@@ -1,2 +1,2 @@
 FILENAME: development.txt
-created as general (non story defect feature) development
+created as general (non-story defect feature) development
