@@ -1,2 +1,4 @@
 FILENAME: q.txt
+#AUTHORS: jaacen
+
 data
