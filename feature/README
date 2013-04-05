@@ -1,3 +1,5 @@
+FILE: feature/README
+AUTHORS: jaacen
 new feature thoughts
 - nike plus developer API
 -- data dump
@@ -6,8 +8,18 @@ new feature thoughts
 --- evernote
 --- graph?
 -- integrate with Evernote somehow
----?
+--- Auto Note Generation 
+--- auto SUMMARY report Generation
+---- TODO: manually generate reports to archive 
+----- weekly?
+----- monthly!
+----- yearly? (not necessary until Jan?)
+-- find other things/sites that might benefit from integration?
+-- twitter integration
+--- daily? summary 
+---- would be OK to do at midnight... but ONLY if new data from SYNC
+--- weekly summary
+--- identify runs?
 
 - comic scripts?
 - integrate with twitterBot?
-
