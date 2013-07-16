@@ -1,0 +1,4 @@
+#!/bin/sh 
+# gitup: simply perform a "git up" on all supdirectories NOT recursing... effectively updates ALL of the projects that I'm working on assuming I've stored them all in ~/git/
+set +v
+for D in */; do echo "switching to ${D}"; cd ${D}; git up; cd ..; done
