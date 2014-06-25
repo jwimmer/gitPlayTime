@@ -1,1 +1,15 @@
 created as general (non story defect feature) development
+
+feature/US0002 adds a block of code
+	one
+	two
+	three
+	four
+	five
+	six
+	seven
+	eight
+	nine
+	ten
+
+
